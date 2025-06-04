@@ -5,6 +5,10 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld!", "HelloWorld!\HelloWorld!.csproj", "{C7201015-E876-412A-A58C-166C07D3D2D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureViewer_", "PictureViewer_\PictureViewer_.csproj", "{EBA39523-B197-4DAF-9BB2-BFB7A8C33340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Quiz", "Math Quiz\Math Quiz.csproj", "{2EE4BF8E-11EB-4590-A2B7-5D7A7BC77095}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C7201015-E876-412A-A58C-166C07D3D2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7201015-E876-412A-A58C-166C07D3D2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7201015-E876-412A-A58C-166C07D3D2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA39523-B197-4DAF-9BB2-BFB7A8C33340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA39523-B197-4DAF-9BB2-BFB7A8C33340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA39523-B197-4DAF-9BB2-BFB7A8C33340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA39523-B197-4DAF-9BB2-BFB7A8C33340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE4BF8E-11EB-4590-A2B7-5D7A7BC77095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE4BF8E-11EB-4590-A2B7-5D7A7BC77095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE4BF8E-11EB-4590-A2B7-5D7A7BC77095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE4BF8E-11EB-4590-A2B7-5D7A7BC77095}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
